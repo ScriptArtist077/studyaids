@@ -1,0 +1,179 @@
+/*styles for html file 1*/
+.body1{
+    font-size: 16px;
+    font-weight: 700;
+}
+.nav1{
+    margin-left: 37%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-style: bold;
+   word-spacing: 2mm;
+   max-width: 1001px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: first baseline;
+}
+#DIV{
+    border-style: outset;
+}
+.D2{
+    border-style: outset;
+}
+#DIG{
+    float: right;
+}
+#DIG2{
+    float: left;
+}
+.body1{
+    font-size: 16pt;
+    background-image: url(flat-lay-desk-with-laptop-mouse.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    
+}
+p{
+    text-align: left;
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+a:link{
+    color: black
+}
+#h1s{
+    font-size: 6em;
+}
+#head1{
+     text-align: center;
+     font-size: 4em
+}
+#h41{
+     text-align: left;
+     font-size: 40px
+}
+#h42{
+    text-align: right;
+    font-size: 40px
+}
+#h43{
+text-align: left;
+font-size: 40px
+}
+#h44{
+text-align: right;
+font-size: 40px
+}
+#h45{
+text-align: right;
+font-size: 40px
+}
+#h46{
+text-align: left;
+font-size: 40px
+}
+#h47{
+text-align: right;
+font-size: 40px
+}
+.PG1{
+    text-align: left;
+}
+.PG2{
+   text-align: right;
+}
+.PG3{
+text-align: left;
+}
+.PG4{
+text-align: right;
+}
+.PG5{
+text-align: right;
+}
+.PG6{
+text-align: left;
+}
+.PG7{
+text-align: right;
+}
+#img1{
+   float: right;
+width: 230px;
+border-radius: 90px
+}
+#img2{
+    float: left;
+    width: 235px;
+   border-radius: 95px
+}
+#img3{
+float: right;
+width: 400px;
+border-radius: 190px;
+}
+#img4{
+float: left;
+width: 330px;
+border-radius:190px;
+}
+#img5{
+float: right;
+width: 330px;
+border-radius: 200px;
+}
+#img6{
+float: left;
+width: 430px;
+border-radius: 200px
+}
+.head2{
+    text-align: center;
+    font-size: 4em
+}
+.H4{
+    border-style: outset;
+    font-size: 30px
+}
+#item{
+    color: whitesmoke;
+}
+#heading4{
+    color: whitesmoke;
+}
+#HEAD4{
+    text-align: center;
+    font-size: 4em;
+}
+#HEAD1{
+    text-align: left;
+    font-size: 3em
+}
+
+#PARA1{
+    text-align: left
+}
+#PARA2{
+    text-align: right
+}
+#PARA3{
+    text-align: left
+}
+#PARA4{
+    text-align: right
+}
+button{
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    justify-content: first baseline;
+}
+li{
+    display: inline-flex;
+}
